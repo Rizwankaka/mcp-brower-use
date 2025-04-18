@@ -1,0 +1,4 @@
+uv init  mcpdemo  -> create a new folder using uv 
+uv venv  -> create a virtual environment using uv 
+.venv\Scripts\activate -> Activate the virtual environment
+uv run app.py 
